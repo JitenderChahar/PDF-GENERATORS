@@ -1,0 +1,36 @@
+{
+			"primaryMemberId" : "DZ123",
+			"members" : [
+				{
+					"memberId" : "DZ123-1",
+					"age" : "26",
+					"gender" : "M",
+					"location" : "COLORADO",
+					"healthGrade" : "2",
+					"tobacco" : "false"
+				},
+				{
+					"memberId" : "DZ123-2",
+					"age" : "24",
+					"gender" : "F",
+					"location" : "COLORADO",
+					"healthGrade" : "1",
+					"tobacco" : "false"
+				},
+				{
+					"memberId" : "DZ123-3",
+					"age" : "6",
+					"gender" : "M",
+					"location" : "COLORADO",
+					"healthGrade" : "3",
+					"tobacco" : "false"
+				}
+			],
+			
+			"databaseParams" : {
+				"dbHost" : "173.193.155.250",
+				"db" : "planselection",
+				"dbUser" : "root1",
+				"dbPassword" : "Dzee2015$"
+			}
+		}
